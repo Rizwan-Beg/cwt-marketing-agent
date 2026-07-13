@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "ads": [
+      {
+        "type": "pain",
+        "hook": "Are you tired of losing money trading? Let\u2019s change that!",
+        "script": "Retail traders often find themselves struggling in the markets, where fear and emotions cloud judgment. Do you feel overwhelmed by the unending stream of information? Are you worried your lack of trading knowledge is costing you money? You're not alone! Many investors feel stuck, battling anxiety and uncertainty. But you can change your narrative! \n\nAt CrowdWisdomTrading, we understand the pain points you face. It's time to stop letting fear control your financial future. Let's turn that anxiety into actionable strategies and regain your confidence!",
+        "visuals": "Close-ups of stressed traders, followed by images of calm, confident individuals analyzing charts with ease."
+      },
+      {
+        "type": "data",
+        "hook": "Unlock exclusive insights from professional traders!",
+        "script": "Introducing our latest trading analysis on the Nasdaq-100 and Snowflake stocks. For Nasdaq-100, did you know professional traders have a LONG bias with an 85% confidence level? They are closely watching the strong momentum driven by AI megacaps like Nvidia! With targets set at 27480 and 27640, the potential for profit is significant.\n\nAnd for Snowflake (SNOW), our analysis reveals strong bullish sentiment despite volatility. Traders anticipate a breakout above $145, with short-term targets around $144.80. The insights from thousands of professional traders is where crowd wisdom meets the stock market!\n\nDon\u2019t trade blind. Harness the power of collective insights!",
+        "visuals": "Dynamic charts of Nasdaq-100 and Snowflake stocks, along with animated statistics and graphics highlighting trader confidence and targets."
+      },
+      {
+        "type": "wisdom",
+        "hook": "Transform your trading with crowd wisdom and data!",
+        "script": "Want to improve your trading results? Join the CrowdWisdomTrading community! Our platform aggregates valuable insights from retail investors and professional traders, giving you the edge in your trading strategies. With our educational content and strong community engagement, we empower you to make informed decisions. \n\nWith access to exclusive data points, like today's bullish forecast on Nasdaq-100 driven by AI infrastructure spending, you\u2019ll never be alone. Together we can navigate the complexities of trading and overcome challenges. Sign up now for a free trial and start your journey toward financial independence!",
+        "visuals": "Visuals of happy, engaged community members discussing trades, successfully trading on mobile devices, and a clear call-to-action to join the platform with visual highlights of educational content."
+      }
+    ]
+  }
+}

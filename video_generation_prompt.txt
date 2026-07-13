@@ -1,0 +1,13 @@
+Make a 45-second animated explainer video for CrowdWisdomTrading.
+        
+Use the following script and visuals:
+
+Hook: Unlock exclusive insights from professional traders!
+Script: Introducing our latest trading analysis on the Nasdaq-100 and Snowflake stocks. For Nasdaq-100, did you know professional traders have a LONG bias with an 85% confidence level? They are closely watching the strong momentum driven by AI megacaps like Nvidia! With targets set at 27480 and 27640, the potential for profit is significant.
+
+And for Snowflake (SNOW), our analysis reveals strong bullish sentiment despite volatility. Traders anticipate a breakout above $145, with short-term targets around $144.80. The insights from thousands of professional traders is where crowd wisdom meets the stock market!
+
+Don’t trade blind. Harness the power of collective insights!
+Visuals Guide: Dynamic charts of Nasdaq-100 and Snowflake stocks, along with animated statistics and graphics highlighting trader confidence and targets.
+
+Please generate the scenes, find royalty-free music, and render the final video using the Animated Explainer pipeline.

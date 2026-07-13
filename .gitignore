@@ -1,0 +1,7 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+CWT_Marketing_Agent_Submission.zip
+hermes-repo/
+.DS_Store
