@@ -1,0 +1,98 @@
+{
+  "theme": "flat-motion-graphics",
+  "cuts": [
+    {
+      "id": "hook",
+      "source": "",
+      "type": "hero_title",
+      "in_seconds": 0,
+      "out_seconds": 4.0,
+      "text": "Unlock Exclusive Insights",
+      "subtitle": "From Professional Traders",
+      "backgroundColor": "#020617"
+    },
+    {
+      "id": "nasdaq-stat",
+      "source": "",
+      "type": "stat_card",
+      "in_seconds": 4.0,
+      "out_seconds": 9.0,
+      "stat": "85%",
+      "subtitle": "Confidence level for a LONG bias on Nasdaq-100",
+      "accentColor": "#10B981",
+      "backgroundColor": "#020617"
+    },
+    {
+      "id": "nasdaq-targets",
+      "source": "",
+      "type": "bar_chart",
+      "in_seconds": 9.0,
+      "out_seconds": 15.0,
+      "title": "Nasdaq-100 Profit Targets",
+      "chartData": [
+        { "label": "Current", "value": 26800 },
+        { "label": "Target 1", "value": 27480 },
+        { "label": "Target 2", "value": 27640 }
+      ],
+      "chartColors": ["#3B82F6", "#10B981", "#059669"],
+      "showGrid": true,
+      "showValues": true,
+      "backgroundColor": "#020617"
+    },
+    {
+      "id": "snowflake-sentiment",
+      "source": "",
+      "type": "text_card",
+      "in_seconds": 15.0,
+      "out_seconds": 21.0,
+      "text": "Strong Bullish Sentiment for Snowflake (SNOW)",
+      "color": "#F8FAFC",
+      "backgroundColor": "#020617"
+    },
+    {
+      "id": "snowflake-targets",
+      "source": "",
+      "type": "comparison",
+      "in_seconds": 21.0,
+      "out_seconds": 27.0,
+      "title": "SNOW Short-Term Outlook",
+      "leftLabel": "Anticipated Breakout",
+      "leftValue": "> $145.00",
+      "rightLabel": "Initial Target",
+      "rightValue": "$144.80",
+      "backgroundColor": "#020617"
+    },
+    {
+      "id": "wisdom-close",
+      "source": "",
+      "type": "text_card",
+      "in_seconds": 27.0,
+      "out_seconds": 33.0,
+      "text": "Don't trade blind. Harness the power of collective insights!",
+      "color": "#38BDF8",
+      "backgroundColor": "#020617"
+    },
+    {
+      "id": "logo-close",
+      "source": "",
+      "type": "hero_title",
+      "in_seconds": 33.0,
+      "out_seconds": 38.0,
+      "text": "CrowdWisdomTrading",
+      "subtitle": "Where crowd wisdom meets the stock market",
+      "backgroundColor": "#020617"
+    }
+  ],
+  "overlays": [
+    {
+      "type": "section_title",
+      "in_seconds": 4.5,
+      "out_seconds": 8.5,
+      "text": "Nvidia & AI Megacaps",
+      "subtitle": "Driving Momentum",
+      "accentColor": "#10B981"
+    }
+  ],
+  "captions": [],
+  "audio": {}
+}
